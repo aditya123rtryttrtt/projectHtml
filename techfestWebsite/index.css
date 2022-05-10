@@ -1,0 +1,11 @@
+body{
+    background:rgb(4, 124, 252)
+}
+
+.container{
+    background-color:rgb(100,250,100);
+    margin:10px;
+    display:flex;
+    flex-direction:reverse;
+    flex-wrap:wrap-reverse;
+}
